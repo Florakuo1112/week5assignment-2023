@@ -1,4 +1,41 @@
-.header{
-  background: #69F0AE;
-  font-size: 64px;
+.menu{
+  width: 296px;
+  background-color: #F8F9FA;
+  ul{
+    li{
+      border-left: 4px solid transparent;
+      &:hover{
+        border-left: 4px solid $success;
+        color: $success;
+      }
+      
+    }
+    a{
+      color:#212529;
+    }
+  }
+
+  .material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 1,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+  }
+  
+}
+
+
+
+
+.author{
+  img{
+    width: 40px;
+    height: 40px;
+  }
+  p{
+    font-size: 14px;
+    line-height: 1;
+    color: #6C757D;
+  }
 }
