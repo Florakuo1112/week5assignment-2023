@@ -53,6 +53,7 @@ a{
     a{
       color: $gray-900;
     }
+ 
     .card-body{
       img{
         width:40px;
@@ -86,5 +87,12 @@ a{
     span{
       color: $gray-900;
     }
+  }
+
+  .collapse-reply {
+    position: absolute;
+    right: 0px;
+    bottom:0px;
+    width: 100%;
   }
 }

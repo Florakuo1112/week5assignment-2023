@@ -1,0 +1,54 @@
+.newAdminModal{
+    .material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+}
+
+table{
+    .arrow_downward{
+        color: $success;
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    .visibility{
+    font-size: 16px;
+    line-height: 1.5;
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+    }
+   
+
+    
+}
+
+.unverified {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+
+
+.verified{
+      font-variation-settings:
+      'FILL' 1,
+      'wght' 400,
+      'GRAD' 0,
+      'opsz' 48
+    }
+
+.emirPhoto{
+    width: 141px;
+    height: 141px;
+}
+
